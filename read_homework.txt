@@ -1,0 +1,4 @@
+Подключаю Git:
+git init
+git config --global user.name 'Sasha'
+git config --global user.name 'sacher16@mail.ru'
